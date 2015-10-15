@@ -1,0 +1,8 @@
+New log file opened at Sat Oct 10 08:39:55 COT 2015 by 26861@lis-sala4
+Sending msg to client play-fork-run-09fce88f-9798-4240-8251-1d79840243f3: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /export/auxprog/cantonio.guerra/dojo-sacala/.sbtserver/connections/master.log))
+Sending msg to client play-fork-run-09fce88f-9798-4240-8251-1d79840243f3: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /export/auxprog/cantonio.guerra/dojo-sacala/.sbtserver/connections/play-fork-run-09fce88f-9798-4240-8251-1d79840243f3.log))
+Sending msg to client play-fork-run-09fce88f-9798-4240-8251-1d79840243f3: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /export/auxprog/cantonio.guerra/dojo-sacala/.sbtserver/master.log))
+Reading next message from client.
+Client play-fork-run-09fce88f-9798-4240-8251-1d79840243f3 closed, java.net.SocketException: Socket closed, shutting down
+Client play-fork-run-09fce88f-9798-4240-8251-1d79840243f3 thread exiting.
+Closing the 26861@lis-sala4 logs at Sat Oct 10 08:39:55 COT 2015, goodbye.
